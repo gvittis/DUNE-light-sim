@@ -8,6 +8,8 @@ Step 3: fit GH functions
 
 Step 4: validate
 
+Extra: make hit map for debugging
+
 
 Based on https://github.com/Li-Jiaoyang97/DUNE-light-sim
 
