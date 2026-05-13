@@ -1,4 +1,7 @@
 Usage:
+- Make channel mapping (using LArSoft verbosity stored in the log file):
+
+  source makeChannelMap.sh
 
 - See the hit map of a single photon origin:
 
